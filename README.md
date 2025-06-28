@@ -1,0 +1,2 @@
+# Net_worth_dynamics_through_ordinary-least_squar_-regression_analysis
+In this project we will take “wealth” net worth as as dependent variable, psychological distress (pd) as key independent variable and others as control variables. We will select the appropriate regression models such like linear regression and multiple regression. We will also conduct CLRM tests and discuss the possible reasons when a test fails. 
